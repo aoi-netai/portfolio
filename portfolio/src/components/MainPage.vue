@@ -82,6 +82,7 @@ import worksImage3 from '@/assets/2026_stm32_document.png';
           <p>2025年は純粋なhtmlのみで構成し、教育は成功しましたが教える側への負荷が大きかったため</p>
           <p>2026年度は、reactやcloudflare workerを使って、アカウントごとの進捗管理や、進捗報告の自動化を行いました</p>
           <RouterLink to="/works/stm32" class="detail-link">詳細を見る →</RouterLink>
+          <RouterLink to="/works/stm32/programs" class="detail-link">プログラム一覧ページ →</RouterLink>
         </div>
       </div>
     </section>
